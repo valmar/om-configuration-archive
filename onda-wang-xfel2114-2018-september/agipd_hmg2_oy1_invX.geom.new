@@ -1,0 +1,148 @@
+adu_per_eV = 0.0001  ; no idea
+clen =  0.2 ; to be filled
+photon_energy = 9370
+res = 5000 ; 200 um pixels
+
+p0a0/min_fs = 0
+p0a0/min_ss = 0
+p0a0/max_fs = 511
+p0a0/max_ss = 127
+p0a0/ss = +0.000000x -1.000000y
+p0a0/fs = +1.000000x +0.000000y
+p0a0/corner_x = -535
+p0a0/corner_y = 687
+
+p1a0/min_fs = 0
+p1a0/min_ss = 128
+p1a0/max_fs = 511
+p1a0/max_ss = 255
+p1a0/ss = +0.000000x -1.000000y
+p1a0/fs = +1.000000x +0.000000y
+p1a0/corner_x = -535
+p1a0/corner_y = 530
+
+p2a0/min_fs = 0
+p2a0/min_ss = 256
+p2a0/max_fs = 511
+p2a0/max_ss = 383
+p2a0/ss = +0.000000x -1.000000y
+p2a0/fs = +1.000000x +0.000000y
+p2a0/corner_x = -535
+p2a0/corner_y = 373
+
+p3a0/min_fs = 0
+p3a0/min_ss = 384
+p3a0/max_fs = 511
+p3a0/max_ss = 511
+p3a0/ss = +0.000000x -1.000000y
+p3a0/fs = +1.000000x +0.000000y
+p3a0/corner_x = -535
+p3a0/corner_y = 216
+
+p4a0/min_fs = 0
+p4a0/min_ss = 512
+p4a0/max_fs = 511
+p4a0/max_ss = 639
+p4a0/ss = +0.000000x -1.000000y
+p4a0/fs = +1.000000x +0.000000y
+p4a0/corner_x = -548
+p4a0/corner_y = 7
+
+p5a0/min_fs = 0
+p5a0/min_ss = 640
+p5a0/max_fs = 511
+p5a0/max_ss = 767
+p5a0/ss = +0.000000x -1.000000y
+p5a0/fs = +1.000000x +0.000000y
+p5a0/corner_x = -548
+p5a0/corner_y = -150
+
+p6a0/min_fs = 0
+p6a0/min_ss = 768
+p6a0/max_fs = 511
+p6a0/max_ss = 895
+p6a0/ss = +0.000000x -1.000000y
+p6a0/fs = +1.000000x +0.000000y
+p6a0/corner_x = -548
+p6a0/corner_y = -307
+
+p7a0/min_fs = 0
+p7a0/min_ss = 896
+p7a0/max_fs = 511
+p7a0/max_ss = 1023
+p7a0/ss = +0.000000x -1.000000y
+p7a0/fs = +1.000000x +0.000000y
+p7a0/corner_x = -548
+p7a0/corner_y = -464
+
+p8a0/min_fs = 0
+p8a0/min_ss = 1024
+p8a0/max_fs = 511
+p8a0/max_ss = 1151
+p8a0/ss = +0.000000x +1.000000y
+p8a0/fs = -1.000000x +0.000000y
+p8a0/corner_x = 562
+p8a0/corner_y = -178
+
+p9a0/min_fs = 0
+p9a0/min_ss = 1152
+p9a0/max_fs = 511
+p9a0/max_ss = 1279
+p9a0/ss = +0.000000x +1.000000y
+p9a0/fs = -1.000000x +0.000000y
+p9a0/corner_x = 562
+p9a0/corner_y = -335
+
+p10a0/min_fs = 0
+p10a0/min_ss = 1280
+p10a0/max_fs = 511
+p10a0/max_ss = 1407
+p10a0/ss = +0.000000x +1.000000y
+p10a0/fs = -1.000000x +0.000000y
+p10a0/corner_x = 562
+p10a0/corner_y = -492
+
+p11a0/min_fs = 0
+p11a0/min_ss = 1408
+p11a0/max_fs = 511
+p11a0/max_ss = 1535
+p11a0/ss = +0.000000x +1.000000y
+p11a0/fs = -1.000000x +0.000000y
+p11a0/corner_x = 562
+p11a0/corner_y = -649
+
+p12a0/min_fs = 0
+p12a0/min_ss = 1536
+p12a0/max_fs = 511
+p12a0/max_ss = 1663
+p12a0/ss = +0.000000x +1.000000y
+p12a0/fs = -1.000000x +0.000000y
+p12a0/corner_x = 589
+p12a0/corner_y = 495
+
+p13a0/min_fs = 0
+p13a0/min_ss = 1664
+p13a0/max_fs = 511
+p13a0/max_ss = 1791
+p13a0/ss = +0.000000x +1.000000y
+p13a0/fs = -1.000000x +0.000000y
+p13a0/corner_x = 589
+p13a0/corner_y = 338
+
+p14a0/min_fs = 0
+p14a0/min_ss = 1792
+p14a0/max_fs = 511
+p14a0/max_ss = 1919
+p14a0/ss = +0.000000x +1.000000y
+p14a0/fs = -1.000000x +0.000000y
+p14a0/corner_x = 589
+p14a0/corner_y = 181
+
+p15a0/min_fs = 0
+p15a0/min_ss = 1920
+p15a0/max_fs = 511
+p15a0/max_ss = 2047
+p15a0/ss = +0.000000x +1.000000y
+p15a0/fs = -1.000000x +0.000000y
+p15a0/corner_x = 589
+p15a0/corner_y = 24

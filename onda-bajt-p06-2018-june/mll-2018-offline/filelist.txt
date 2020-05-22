@@ -1,0 +1,3 @@
+/gpfs/bl/current/raw/sardana/0002_MLL_alignment/scan_00062/eiger4m_01/scan_00062_data_000001.h5
+/gpfs/bl/current/raw/sardana/0002_MLL_alignment/scan_00062/eiger4m_01/scan_00062_data_000002.h5
+/gpfs/bl/current/raw/sardana/0002_MLL_alignment/scan_00062/eiger4m_01/scan_00062_master.h5

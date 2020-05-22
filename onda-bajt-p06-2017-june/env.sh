@@ -1,0 +1,1 @@
+/gpfs/cfel/cxi/common/beamtimes/2017/onda-Bajt-P06/onda-internal/setup-bash-p06.sh
